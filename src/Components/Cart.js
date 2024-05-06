@@ -6,6 +6,7 @@ const Cart = () => {
     const bouquetFleurs = 15;
     return (
       <div className="lmj-cart">
+      <h2>Panier</h2>
       <ul>
         <li>Monstera : {monsteraPrice} €</li>
         <li>Lierre : {lierrePrice} €</li>
